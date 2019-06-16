@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <creditCard id="1" account_id="1" last_used="2019-03-24" pin_code="1234" wrong_pin_code_attempts="0" blocked="0"/>
+  <creditCard id="2" account_id="1" last_used="2019-04-12" pin_code="4321" wrong_pin_code_attempts="0" blocked="0"/>
+  <creditCard id="3" account_id="2" last_used="2019-05-02" pin_code="5678" wrong_pin_code_attempts="0" blocked="0"/>
+</dataset>
